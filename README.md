@@ -1,6 +1,6 @@
 # Qwen2.5-1.5B Finance QA
  
-A fine-tuned version of [Qwen2.5-1.5B](https://huggingface.co/unsloth/Qwen2.5-1.5B-Instruct) for financial question answering, built to make learning finance concepts easier for students and beginners.
+[financial-Qwen2.5-1.5B](https://huggingface.co/YoussefEldoksh/financial-Qwen2.5-1.5B-Instruct) is a fine-tuned version of [Qwen2.5-1.5B](https://huggingface.co/unsloth/Qwen2.5-1.5B-Instruct) for financial question answering, built to make learning finance concepts easier for students and beginners.
  
 > **Disclaimer:** This model is for educational purposes only. It can produce incorrect or outdated information, including made-up figures. It is not financial advice and should not be used to make investment decisions.
  
